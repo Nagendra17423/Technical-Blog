@@ -17,7 +17,7 @@ Place where people can share there knowledge and learn new things
 # Profile Page
 ![Screenshot (37)](https://user-images.githubusercontent.com/61315497/86051859-b9d57180-ba73-11ea-944d-3e192ce6e04f.png)
  
-#Add Posts Form 
+# Add Posts Form 
 ![Screenshot (31)](https://user-images.githubusercontent.com/61315497/86051328-dc1abf80-ba72-11ea-93d8-dcc36875bb0a.png)
 
 
